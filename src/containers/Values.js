@@ -1,4 +1,4 @@
-export const Values=
+ const Values=
 [{
 	id:1,
 	name:'ajay jat',
@@ -62,4 +62,4 @@ export const Values=
 ]
 
 
-// export default Values;
+export default Values;

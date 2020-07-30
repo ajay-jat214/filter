@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const searchbox=({searchchange,searchfield})=>{
+const searchbox=({searchchange})=>{
 return(
 	<div>
 	<input

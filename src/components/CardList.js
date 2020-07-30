@@ -3,6 +3,7 @@ import Cards from './Cards';
 //import Values from './Values';
 
 const CardList=({Values}) => {
+  
 	return(
 		<div>
           {
